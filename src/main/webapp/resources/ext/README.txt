@@ -1,0 +1,1 @@
+Copy ExtJs required libraries here. Refer ExtJs official site
